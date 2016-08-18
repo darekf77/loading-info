@@ -27,5 +27,5 @@ from component class
 or set on subscriber from rxjs
 
     let sub = model.subscribe( data => console.log(data)  )
-    LoadingInfoComponent.setOn( 'myID' , data );
+    LoadingInfoComponent.setOn( 'myID' , sub );
 

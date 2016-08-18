@@ -1,6 +1,6 @@
 {
   "name": "loading-info",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Gif loading info for angular 2 apps",
   "main": "loading-info.js",
   "scripts": {
