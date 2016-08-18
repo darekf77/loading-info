@@ -1,0 +1,24 @@
+{
+  "name": "loading-info",
+  "version": "0.0.2",
+  "description": "Gif loading info for angular 2 apps",
+  "main": "loading-info.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darekf77/loading-info.git"
+  },
+  "keywords": [
+    "anuglar2",
+    "loading",
+    "info"
+  ],
+  "author": "Dariusz Filipiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darekf77/loading-info/issues"
+  },
+  "homepage": "https://github.com/darekf77/loading-info#readme"
+}
