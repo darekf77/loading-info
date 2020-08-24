@@ -1,4 +1,22 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {}
+    },
+    "linkedProjects": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false
+    }
+  },
   "name": "loading-info",
   "version": "0.0.4",
   "description": "Gif loading info for angular 2 apps",
@@ -20,5 +38,7 @@
   "bugs": {
     "url": "https://github.com/darekf77/loading-info/issues"
   },
-  "homepage": "https://github.com/darekf77/loading-info#readme"
+  "homepage": "https://github.com/darekf77/loading-info#readme",
+  "dependencies": {},
+  "devDependencies": {}
 }
