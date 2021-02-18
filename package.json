@@ -1,6 +1,8 @@
 {
   "tnp": {
     "resources": [],
+    "type": "angular-lib",
+    "version": "v2",
     "overrided": {
       "linkedFolders": [],
       "ignoreDepsPattern": [

@@ -1,5 +1,7 @@
 {
   "resources": [],
+  "type": "angular-lib",
+  "version": "v2",
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -14,5 +16,6 @@
     "nodts": false,
     "obscure": false,
     "ugly": false
-  }
+  },
+  "private": true
 }
