@@ -17,5 +17,18 @@
     "obscure": false,
     "ugly": false
   },
-  "private": true
+  "private": true,
+  "scripts": {
+    "test": "karma test"
+  },
+  "description": "Gif loading info for angular 2 apps",
+  "license": "MIT",
+  "author": "Dariusz Filipiak",
+  "homepage": "https://github.com/darekf77/loading-info#readme",
+  "main": "loading-info.js",
+  "keywords": [
+    "anuglar2",
+    "loading",
+    "info"
+  ]
 }
