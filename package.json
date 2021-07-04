@@ -290,6 +290,6 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {},
-  "private": false,
+  "private": true,
   "lastBuildTagHash": "632eaf879df1d98427a73a4b72c8452f383f70a9"
 }
