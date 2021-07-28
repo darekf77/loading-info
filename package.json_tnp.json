@@ -17,7 +17,7 @@
     "obscure": false,
     "ugly": false
   },
-  "private": true,
+  "private": false,
   "scripts": {
     "test": "karma test"
   },
