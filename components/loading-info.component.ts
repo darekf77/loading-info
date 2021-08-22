@@ -4,7 +4,7 @@ import { Observable  } from 'rxjs';
 const url = require('file!./loading.gif');
 
 import { LoadingInfoState } from './loading-info-state';
-import { Log, Level } from 'ng2-logger/ng2-logger';
+import { Log, Level } from 'ng2-logger';
 const log = Log.create('loading info component', Level.__NOTHING);
 
 interface LoadingFn {
