@@ -31,7 +31,8 @@
       "anuglar2",
       "loading",
       "info"
-    ]
+    ],
+    "workerPlugins": {}
   },
   "name": "loading-info",
   "version": "0.0.15",

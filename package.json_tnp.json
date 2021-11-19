@@ -30,5 +30,6 @@
     "anuglar2",
     "loading",
     "info"
-  ]
+  ],
+  "workerPlugins": {}
 }
