@@ -283,5 +283,8 @@
   },
   "devDependencies": {},
   "private": false,
-  "lastBuildTagHash": "23fe4a5849a396bec49695b89a7ec828f0949353"
+  "lastBuildTagHash": "23fe4a5849a396bec49695b89a7ec828f0949353",
+  "recreatedFrom": {
+    "tnp.json": true
+  }
 }
