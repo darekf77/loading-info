@@ -1,7 +1,5 @@
 {
   "resources": [],
-  "type": "angular-lib",
-  "version": "v2",
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -17,7 +15,9 @@
     "obscure": false,
     "ugly": false
   },
-  "private": false,
+  "type": "isomorphic-lib",
+  "version": "v3",
+  "private": true,
   "scripts": {
     "test": "karma test"
   },
