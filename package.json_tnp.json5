@@ -1,5 +1,6 @@
 {
   "resources": [],
+
   "overrided": {
     "linkedFolders": [],
     "ignoreDepsPattern": [
@@ -9,27 +10,35 @@
     "includeOnly": [],
     "dependencies": {}
   },
+
   "linkedProjects": [],
+  'linkedRepos': [],
+
   "libReleaseOptions": {
     "nodts": false,
     "obscure": false,
     "ugly": false
   },
+
   "type": "isomorphic-lib",
   "version": "v3",
   "private": true,
+
   "scripts": {
     "test": "karma test"
   },
+
   "description": "Gif loading info for angular 2 apps",
   "license": "MIT",
   "author": "Dariusz Filipiak",
   "homepage": "https://github.com/darekf77/loading-info#readme",
   "main": "loading-info.js",
+
   "keywords": [
     "anuglar2",
     "loading",
     "info"
   ],
-  "workerPlugins": {}
+
+  "workerPlugins": {},
 }
