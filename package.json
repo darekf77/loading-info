@@ -1,8 +1,47 @@
 {
+  "tnp": {
+    "resources": [],
+    "overrided": {
+      "linkedFolders": [],
+      "ignoreDepsPattern": [
+        "*"
+      ],
+      "includeAsDev": [],
+      "includeOnly": [],
+      "dependencies": {},
+      "npmFixes": []
+    },
+    "linkedProjects": [],
+    "smartContainerBuildTarget": "",
+    "linkedRepos": [],
+    "libReleaseOptions": {
+      "nodts": false,
+      "obscure": false,
+      "ugly": false,
+      "includeNodeModules": false
+    },
+    "smartContainerTarget": "",
+    "type": "isomorphic-lib",
+    "version": "v3",
+    "private": true,
+    "scripts": {
+      "test": "karma test"
+    },
+    "description": "Gif loading info for angular 2 apps",
+    "license": "MIT",
+    "author": "Dariusz Filipiak",
+    "homepage": "https://github.com/darekf77/loading-info#readme",
+    "main": "loading-info.js",
+    "keywords": [
+      "anuglar2",
+      "loading",
+      "info"
+    ],
+    "workerPlugins": {}
+  },
   "name": "loading-info",
   "version": "0.0.17",
   "description": "Gif loading info for angular 2 apps",
-  "main": "loading-info.js",
   "scripts": {
     "test": "karma test"
   },
