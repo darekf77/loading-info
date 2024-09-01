@@ -3,7 +3,7 @@
     "resources": []
   },
   "name": "loading-info",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Gif loading info for angular 2 apps",
   "scripts": {
     "test": "karma test"
